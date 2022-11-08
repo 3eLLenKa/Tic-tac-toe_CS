@@ -487,12 +487,12 @@ class Game
     {
         short pos;
 
-        Console.Title = "1000-7";
+        Console.Title = "Tic-Tac-Toe";
         Console.WriteLine(" Крестики - нолики\n");
-        Console.WriteLine(" Типа менюшка");
+        Console.WriteLine(" Меню");
         Console.WriteLine(" --------------------------------");
         Console.WriteLine(" 1) Игра с игроком");
-        Console.WriteLine(" 2) Игра с ботом (ну типа)");
+        Console.WriteLine(" 2) Игра с ботом");
         Console.WriteLine(" 3) Настройки");
         Console.WriteLine(" --------------------------------\n");
 
